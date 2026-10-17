@@ -11,6 +11,11 @@
 </p>
 
 <p align="center">
+  <b>▶ <a href="https://ezzy1231.github.io/pulse-deck/">Try the live demo in your browser</a></b> — no install, just click START<br/><br/>
+</p>
+
+<p align="center">
+  <a href="https://ezzy1231.github.io/pulse-deck/"><img src="https://img.shields.io/badge/Live%20demo-play%20now-3ddc97?logo=googlechrome&logoColor=white" alt="Live demo"/></a>
   <a href="https://github.com/ezzy1231/pulse-deck/releases/latest"><img src="https://img.shields.io/badge/Download-Windows-3ddc97?logo=windows&logoColor=white" alt="Download for Windows"/></a>
   <a href="#quick-start"><img src="https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white" alt="React 19"/></a>
   <a href="#quick-start"><img src="https://img.shields.io/badge/TypeScript-5.9-3178c6?logo=typescript&logoColor=white" alt="TypeScript 5.9"/></a>
