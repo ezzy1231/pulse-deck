@@ -64,6 +64,10 @@ Open a browser tab. Press START. Drop in some tracks. Start mixing.
 
 ## Quick start
 
+**Zero install — test it right now:** open **https://ezzy1231.github.io/pulse-deck/** in Chrome or Edge (any HTTPS page works for WebHID). Hit START, load your tracks, plug in the DualSense over USB.
+
+Or run it locally:
+
 ```bash
 npm install
 npm run dev
