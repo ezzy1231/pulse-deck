@@ -17,6 +17,7 @@
   <a href="#desktop-app"><img src="https://img.shields.io/badge/Electron-44-47848f?logo=electron&logoColor=white" alt="Electron 44"/></a>
   <a href="#dualsense-superpowers"><img src="https://img.shields.io/badge/WebHID-DualSense-00439c?logo=playstation&logoColor=white" alt="WebHID DualSense"/></a>
   <img src="https://img.shields.io/badge/Windows-10%2F11-0078d4?logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/License-MIT-3ddc97" alt="License: MIT"/>
   <img src="https://img.shields.io/badge/PRs-welcome-3ddc97" alt="PRs welcome"/>
 </p>
 
@@ -162,6 +163,10 @@ DualSense HID protocol informed by [SDL](https://github.com/libsdl-org/SDL) and 
 ## Contributing
 
 PRs are welcome — controllers, effects, and UI polish especially. Fork it, break it, fix it, send it back.
+
+## License
+
+MIT — use it, remix it, ship it. Just keep the copyright notice. See [LICENSE](LICENSE) for details. Bundled dependencies keep their own licenses (see Credits).
 
 ---
 
