@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ezzy1231/pulse-deck/releases/latest"><img src="https://img.shields.io/badge/Download-Windows-3ddc97?logo=windows&logoColor=white" alt="Download for Windows"/></a>
   <a href="#quick-start"><img src="https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white" alt="React 19"/></a>
   <a href="#quick-start"><img src="https://img.shields.io/badge/TypeScript-5.9-3178c6?logo=typescript&logoColor=white" alt="TypeScript 5.9"/></a>
   <a href="#quick-start"><img src="https://img.shields.io/badge/Vite-7-646cff?logo=vite&logoColor=white" alt="Vite 7"/></a>
@@ -101,6 +102,8 @@ Everything above is rebindable — open **Settings** from the header pill, hit R
 | `S` | Settings & mapping editor |
 
 ## Desktop app
+
+Grab the latest build from [Releases](https://github.com/ezzy1231/pulse-deck/releases/latest) — installer or portable, no toolchain needed. Or build it yourself:
 
 ```bash
 npm run electron   # dev run as a desktop window
